@@ -24,8 +24,8 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. Ultramarine Linux Cutefish Edition]
- - Version [e.g. 22.04]
+ - OS: [e.g. Ultramarine Linux Flagship Edition]
+ - Version [e.g. 39]
 
 **Additional context**
 Add any other context about the problem here.
