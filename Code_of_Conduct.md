@@ -2,7 +2,7 @@
 
 ## 0. External Contributors and Employees
 
-Employees of Fyra Labs may be held to a higher standard than outlined by this document. Employees should review the policy in their onboarding packet, or internal Outline instance for more details.
+Employees of Fyra Labs are held to a higher standard than outlined by this document. Employees should review the policy in their onboarding packet, or internal Outline instance for more details.
 
 ## 1. Purpose
 
