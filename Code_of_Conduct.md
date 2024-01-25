@@ -61,7 +61,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior from employees of Fyra Labs, or have any other concerns, please use the [External Human Resources Form](https://airtable.com/shrCMi4X3Xp3ITMJz)
+If you are subject to or witness unacceptable behavior from employees of Fyra Labs, or have any other concerns, please use the [External Human Resources Form](https://airtable.com/appPpUxy9H9IKBcNh/shr0PX76IjIbJnSO2)
 
 If you are subject to or witness unacceptable behavior from other members of this community, or have any other concerns, you should email [Fyra Labs Contact](mailto:contact@fyralabs.com).
 
