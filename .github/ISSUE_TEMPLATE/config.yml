@@ -1,0 +1,7 @@
+contact_links:
+  - name: Package request
+    url: https://github.com/Ultramarine-Linux/packages/issues
+    about: Please submit package requests in this repository instead.
+  - name: Support/Help
+    url: https://wiki.ultramarine-linux.org/en/community/community
+    about: Please join our community to ask for support instead.
