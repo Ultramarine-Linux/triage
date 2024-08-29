@@ -39,7 +39,7 @@ body:
     attributes:
       label: Release Version
       description: The numerical value that represents the version of Ultramarine Linux you're using.
-      placeholder: 40
+      placeholder: "40"
     validations:
       required: true
   - type: dropdown
